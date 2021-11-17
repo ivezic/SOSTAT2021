@@ -7,7 +7,7 @@ https://github.com/ivezic/SOSTAT2021/tree/main/notebooks
 
 ---------------------------------------------------------------------- 
  
-Lecture 1: Gentle Introduction to Big Data in Astronomy and Basics... 
+### Lecture 1: Gentle Introduction to Big Data in Astronomy and Basics... 
 
 Quick Introduction to Big Data in Astronomy (and LSST)
 
@@ -21,12 +21,13 @@ Exploratory Data Analysis
 
 -----------------------------------------------------------------------------
  
-Lecture 2: Introduction to Machine Learning; density estimation and regression
+### Lecture 2: Introduction to Machine Learning; density estimation and regression
 
 Introduction to ML in Astronomy
 
 Density Estimation
 
 Regression
+
 -----------------------------------------------------------------------------
  
